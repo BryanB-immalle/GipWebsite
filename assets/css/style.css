@@ -5,6 +5,24 @@
 * License: https://bootstrapmade.com/license/
 */
 
+
+
+/*Self implemnted code*/
+
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: #0563bb;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: #0563bb;
+}
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
