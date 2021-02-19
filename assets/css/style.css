@@ -8,6 +8,7 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
@@ -832,8 +833,8 @@ section {
 }
 
 .testimonials .testimonial-item .testimonial-img {
-  width: 120px;
-  border-radius: 50%;
+  width: 60rem;
+  border-radius: 5%;
   border: 4px solid #fff;
   margin: 0 auto;
 }
